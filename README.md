@@ -5,6 +5,6 @@
 
   # yashbhaskarwar's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[yashbhaskarwar.github.io/smel-lab-website](https://yashbhaskarwar.github.io/smel-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
