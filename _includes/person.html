@@ -1,0 +1,21 @@
+<div class="person-card">
+  {% if include.person.image %}
+    <div class="person-card-image">
+      <img src="{{ include.person.image | relative_url }}" alt="{{ include.person.name }}">
+    </div>
+  {% endif %}
+
+  <div class="person-card-body">
+    <h3>{{ include.person.name }}</h3>
+
+    {% if include.person.email %}
+      <p class="person-email">
+        <a href="mailto:{{ include.person.email }}">{{ include.person.email }}</a>
+      </p>
+    {% endif %}
+
+    {% if include.person.bio %}
+      <p>{{ include.person.bio }}</p>
+    {% endif %}
+  </div>
+</div>

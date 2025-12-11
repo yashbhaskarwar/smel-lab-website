@@ -23,3 +23,17 @@ footer a:hover {
 footer .icon {
   font-size: var(--xl);
 }
+
+footer.background {
+  position: relative;
+}
+
+.footer-copy {
+  position: absolute;
+  bottom: 8px;         /* move up/down to sit nicely on yellow */
+  left: 0;
+  right: 0;
+  text-align: center;
+  // font-size: 0.9rem;
+  color: #003DA5;      /* UCR blue so it’s readable on yellow */
+}

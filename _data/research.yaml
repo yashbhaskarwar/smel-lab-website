@@ -1,0 +1,29 @@
+- id: ship-emissions
+  title: Ship emissions and port studies
+  image: images/Barge_boom_close.jpg
+  summary: >
+    Field measurements of ship exhaust using barge-mounted capture and treatment
+    systems at port. We quantify real-world emission rates and control system
+    efficiency under operating conditions.
+  publications:
+    - text: Example Study on capture efficiency of ship exhaust at port (demo)
+      link: https://google.com
+
+- id: hdd-engine
+  title: Heavy-duty engine and dynamometer testing
+  image: images/HDD_wide.jpeg
+  summary: >
+    Controlled laboratory testing of natural gas and conventional engines on
+    our heavy-duty dynamometer. We evaluate emissions, fuel effects, and
+    aftertreatment performance.
+  publications:
+    - text: Example Emissions from natural gas heavy-duty engines (demo)
+
+- id: tugboat-field
+  title: Tugboat and marine field campaigns
+  image: images/Tugboat.jpg
+  summary: >
+    Field campaigns on working tugboats and marine vessels to measure emissions
+    during real service duty cycles, complementing laboratory experiments.
+  publications:
+    - text: Example Field measurements from tugboat operations (demo)

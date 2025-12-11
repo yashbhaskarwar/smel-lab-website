@@ -1,0 +1,30 @@
+<div class="research-card">
+  {% if include.item.image %}
+    <div class="research-card-image">
+      <img src="{{ include.item.image | relative_url }}" alt="{{ include.item.title }}">
+    </div>
+  {% endif %}
+
+  <div class="research-card-body">
+    <h3>{{ include.item.title }}</h3>
+
+    {% if include.item.summary %}
+      <p>{{ include.item.summary }}</p>
+    {% endif %}
+
+    {% if include.item.publications %}
+      <h4>Example publications</h4>
+      <ul>
+        {% for pub in include.item.publications %}
+          <li>
+            {% if pub.link %}
+              <a href="{{ pub.link }}" target="_blank" rel="noopener">{{ pub.text }}</a>
+            {% else %}
+              {{ pub.text }}
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+</div>

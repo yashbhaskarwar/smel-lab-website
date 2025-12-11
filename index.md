@@ -1,9 +1,7 @@
 ---
 ---
 
-# yashbhaskarwar's Website
-
-An engaging 1-3 sentence description of your lab.
+[Sample Description] Data-driven research on vehicle activity, braking behavior and particulate emissions to support cleaner mobility for disadvantaged communities.
 
 {% include section.html %}
 
@@ -11,12 +9,14 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We perform experimental and field studies on vehicle emissions, advanced fuels,
+ship and tugboat operations, and heavy-duty engines. Our work combines controlled
+lab testing and real-world measurements.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Explore our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/HDD.jpeg"
   link="research"
   title="Our Research"
   text=text
@@ -34,36 +34,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team includes faculty, researchers, and students working together on laboratory
+experiments and field campaigns, from ship-emissions studies to heavy-duty engine testing.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
+  link="people"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -74,8 +50,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  image="images/Barge_selfie.jpg"
+  link="projects"
+  title="Meet our team"
+  flip=true
+  style="bare"
   text=text
 %}

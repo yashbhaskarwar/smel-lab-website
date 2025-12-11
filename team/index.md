@@ -2,34 +2,42 @@
 title: Team
 nav:
   order: 3
-  tooltip: About our team
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Lab Director & Principal Investigator
+
+{% assign director = site.data.members | where: "role", "pi" %}
+{% for person in director %}
+{% include person.html person=person %}
+{% endfor %}
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+## Collaborating Research Faculty
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% assign collab_faculty = site.data.members | where: "role", "faculty" | where: "status", "current" %}
+{% for person in collab_faculty %}
+{% include person.html person=person %}
+{% endfor %}
 
 {% include section.html %}
 
-{% capture content %}
+## Students
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% assign students = site.data.members | where: "group", "students" | where: "status", "current" %}
+{% for person in students %}
+{% include person.html person=person %}
+{% endfor %}
 
-{% endcapture %}
+{% include section.html %}
 
-{% include grid.html style="square" content=content %}
+## Alumni
+
+{% assign alumni = site.data.members | where: "status", "alumni" %}
+{% for person in alumni %}
+{% include person.html person=person %}
+{% endfor %}
+
+{% include section.html %}

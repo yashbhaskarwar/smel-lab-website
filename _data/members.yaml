@@ -1,0 +1,74 @@
+# role: pi, faculty, or student
+# group: faculty or students
+# status: current or alumni
+
+# ---------------------------------------------------------------
+# Lab Director & Principal Investigator
+# ---------------------------------------------------------------
+
+- id: karavalakis
+  name: Georgios Karavalakis
+  image: images/members/pi/georgios.jpg
+  role: pi
+  group: faculty
+  status: current
+  bio: >
+    Professor of Chemical and Environmental Engineering at the University of
+    California, Riverside, leading research on vehicle emissions, advanced and
+    low-carbon fuels, and sustainable mobility.
+
+# ---------------------------------------------------------------
+# Collaborating Research Faculty
+# ---------------------------------------------------------------
+
+# ---------------------------------------------------------------
+# Students
+# ---------------------------------------------------------------
+
+- id: troy-hurren
+  name: Troy Hurren
+  image: images/members/students/troy.jpg
+  role: student
+  group: students
+  status: current
+  email: troy.hurren@email.ucr.edu
+  bio: >
+    PhD candidate in Chemical and Environmental Engineering at the University of
+    California, Riverside. Holds a BS in Mechanical Engineering from Mississippi
+    State University and an MASc in Mechanical Engineering from the University of
+    British Columbia. Research focuses on experimental emissions measurements and
+    characterization for heavy-duty transportation, including engines, vehicles, and
+    marine vessels, to support sustainable, science-informed policy.
+
+- id: zixuan-gong
+  name: Zixuan Gong
+  image: images/members/students/zixuan.jpg
+  role: student
+  group: students
+  status: current
+  email: zixuan.gong@email.ucr.edu
+  bio: >
+    Holds an MSc in Advanced Chemical Engineering from Imperial College London and a
+    BEng in Chemical Engineering from The University of Edinburgh through the
+    SCUT–Edinburgh 2+2 Joint Program. Current research focuses on non-exhaust
+    emissions from transportation sources, particularly brake and tire wear, with an
+    emphasis on chemical analysis and characterization of particulate matter.
+
+- id: abidur-rahman-adib
+  name: Abidur Rahman Adib
+  image: images/members/students/abidur.jpg
+  role: student
+  group: students
+  status: current
+  email: abidurrahman.adib@email.ucr.edu
+  bio: >
+    Completed a Bachelor of Science in Mechanical Engineering in 2023 from the
+    Chittagong University of Engineering and Technology (CUET), Bangladesh. Research
+    interests include combustion, engine performance, emissions characterization, and
+    alternative and low-carbon fuels, with a focus on how fuel properties and
+    combustion behavior influence pollutant formation and support cleaner
+    transportation technologies.
+
+# ---------------------------------------------------------------
+# Alumni
+# ---------------------------------------------------------------

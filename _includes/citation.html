@@ -10,7 +10,7 @@
 
 <div class="citation-container">
   <div class="citation">
-    {% if include.style == "rich" %}
+    <!-- {% if include.style == "rich" %}
       <a
         {% if citation.link %}
           href="{{ citation.link | relative_url | uri_escape }}"
@@ -18,14 +18,14 @@
         class="citation-image"
         aria-label="{{ citation.title | default: "citation link" | regex_strip }}"
       >
-        <img
+          <img
           src="{{ citation.image | relative_url | uri_escape }}"
           alt="{{ citation.title | default: "citation image" | regex_strip }}"
           loading="lazy"
           {% include fallback.html %}
-        >
+        > 
       </a>
-    {% endif %}
+    {% endif %} -->
 
     <div class="citation-text">
       {% assign type = site.data.types[citation.type] %}
@@ -64,10 +64,10 @@
           {{- citation.publisher | default: "[no publisher info]" -}}
         </span>
         &nbsp;·&nbsp;
-        <span class="citation-date">
+        <!-- <span class="citation-date">
           {{- citation.date | default: "[no date info]" | date: "%d %b %Y" -}}
         </span>
-        &nbsp;·&nbsp;
+        &nbsp;·&nbsp; -->
         <span class="citation-id">
           {{- citation.id | default: "[no id info]" -}}
         </span>
