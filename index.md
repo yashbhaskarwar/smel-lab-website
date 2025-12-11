@@ -1,7 +1,7 @@
 ---
 ---
 
-[Sample Description] Data-driven research on vehicle activity, braking behavior and particulate emissions to support cleaner mobility for disadvantaged communities.
+Data-driven research on vehicle activity, braking behavior and particulate emissions to support cleaner mobility for disadvantaged communities.
 
 {% include section.html %}
 
