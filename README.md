@@ -1,3 +1,5 @@
+Visit **[yashbhaskarwar.github.io/smel-lab-website](https://yashbhaskarwar.github.io/smel-lab-website)** 🚀
+
 # SMEL Lab Website
 
 This is the official website for the Sustainable Mobility and Environment Laboratory (SMEL) at the University of California, Riverside.  
