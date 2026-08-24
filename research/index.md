@@ -6,9 +6,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Our research focuses on real-world vehicle and ship emissions, advanced and low-carbon
-fuels, and heavy-duty engine testing. We combine laboratory experiments with field
-campaigns to understand emission behavior under practical operating conditions.
+SMEL is a sister laboratory of the Emissions and Fuels Research (EFR) Group at the College of Engineering, Center for Environmental Research and Technology (CE-CERT). The applications of my research extends from brake and tire wear particulate emissions from light-duty vehicles, heavy-duty trucks, and trains, vehicle and maritime emissions, air pollution impacts from battery fires, and emission mitigation strategies. 
 
 {% include section.html %}
 
