@@ -1,7 +1,7 @@
 ---
 ---
 
-Data-driven research on vehicle activity, braking behavior and particulate emissions to support cleaner mobility for disadvantaged communities.
+We conduct data-driven experimental research aimed at advancing cleaner and more sustainable mobility. Our group investigates low- and zero-carbon fuels for ground and marine transportation, with a focus on their combustion performance and their impacts on air quality, climate, and human health. We are at the forefront of research on non-exhaust emissions, developing new sampling systems and measurement protocols and addressing their environments impacts. 
 
 {% include section.html %}
 
@@ -10,8 +10,8 @@ Data-driven research on vehicle activity, braking behavior and particulate emiss
 {% capture text %}
 
 We perform experimental and field studies on vehicle emissions, advanced fuels,
-ship and tugboat operations, and heavy-duty engines. Our work combines controlled
-lab testing and real-world measurements.
+and heavy-duty engines. Our work combines controlled
+lab testing and real-world measurements using advanced on-line and off-line instrumentation, and data mining.
 
 {%
   include button.html
@@ -34,8 +34,8 @@ lab testing and real-world measurements.
 
 {% capture text %}
 
-Our team includes faculty, researchers, and students working together on laboratory
-experiments and field campaigns, from ship-emissions studies to heavy-duty engine testing.
+Our team includes researchers and students working together on laboratory
+experiments and field campaigns.
 
 {%
   include button.html
