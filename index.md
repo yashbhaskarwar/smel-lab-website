@@ -10,9 +10,9 @@ We conduct data-driven experimental research aimed at advancing cleaner and more
 
 {% capture text %}
 
-We perform experimental and field studies on vehicle emissions, advanced fuels,
-and heavy-duty engines. Our work combines controlled
-lab testing and real-world measurements using advanced on-line and off-line instrumentation, and data mining.
+We perform experimental studies on non-exhaust emissions, combustion-generated pollutants, advanced fuels,
+and transportation engines. Our work combines controlled laboratory testing and 
+real-world measurements using advanced on-line and off-line instrumentation techniques and data mining.
 
 {%
   include button.html
