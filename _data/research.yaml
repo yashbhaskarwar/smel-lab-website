@@ -10,21 +10,42 @@
     - text: Project title and short description
       link: https://google.com
 
-- id: hdd-engine
-  title: Heavy-duty engine and dynamometer testing
+- id: hydrogen
+  title: Hydrogen and Hydrogen Blends with Renewable Natural Gas for Transportation Engines and Non-Road Applications
   image: images/HDD_wide.jpeg
   summary: >
-    Controlled laboratory testing of natural gas and conventional engines on
-    our heavy-duty dynamometer. We evaluate emissions, fuel effects, and
-    aftertreatment performance.
-  publications:
+    Hydrogen is a promising zero-carbon fuel for transportation engines and non-road applications (e.g., power generation, construction and agricultural equipment, etc.).
+    We tested and demonstrated a hydrogen internal combustion engine vehicle both on-road and in the laboratory, marking the first demonstration of its kind in the U.S. 
+    Our lab has also conducted projects evaluating the combustion performance and emissions of hydrogen-RNG blends in a heavy-duty ultra-low NOx highway engine using advanced diagnostic techniques.
+    Our research is supported by the South Coast Air Quality Management District (SCAQMD), Sacramento Metro Air Quality Management District, Southern California Gas Company, and Pacific Gas and Electric Company (PG&E). 
+     
     - text: Example Emissions from natural gas heavy-duty engines (demo)
 
-- id: tugboat-field
-  title: Tugboat and marine field campaigns
-  image: images/Tugboat.jpg
+- id: battery fires and air quality
+  title: Air Quality Studies from Battery Fires
+  image: 
   summary: >
-    Field campaigns on working tugboats and marine vessels to measure emissions
-    during real service duty cycles, complementing laboratory experiments.
+    SMEL performs field campaigns and laboratory experiments to characterize the physicochemical and toxicological properties of emissions released from lithium-ion battery fires.
+    We employ advanced online particle instrumentation and offline chemical characterization techniques to examine particulate and gaseous emissions during thermal runaway events.
+    Pollutant characterization includes polycyclic aromatic hydrocarbons, heavy metals, inorganic ions, and perfluoroalkyl and polyfluoroalkyl (PFAS) species. 
+    Our research activities have been supported by the UL Research Institutes.
   publications:
-    - text: Example Field measurements from tugboat operations (demo)
+    - text: 
+
+  id: low-carbon fuels
+  title: Low-Carbon Liquid Biofuels  
+  image: 
+  summary: >
+    We have extensively studied the environmental impacts of low-carbon liquid biofuels in both spark-ignition and compression-ignition engines. 
+    Resarch in this area includes the use of higher alcohols blended with gasoline, such as iso-butanol blends, low-, mid-, and high-concentration
+    ethanol blends for conventional and flexible fuel vehicles, and renewable naphtha blends with ethanol and gasoline. 
+    We have investigated the effects of gasoline composition and particulate matter index (PMI) on the formation of toxic pollutants
+    and primary particulate emissions, as well as the production of secondary organic aerosol, using environmental chambers and oxidation flow reactors. 
+    I led a landmark study demonstrating significant emissions reductions from the use of E15 fuel in California. 
+    This work contributed to the adoption of legislation allowing gasoline blends containing up to 15% ethanol by volume in the California market.
+    My lab has also conducted one the first studies using renewable naphtha blended with gasoline and ethanol
+    to investigate criteria emissions and secondary aerosol formation, along with a detailed life cycle analysis.  
+    Over the years, our research has been supported by the California Air Resources Board (CARB), South Coast Air Quality Management District (SCAQMD), USCAR,
+    Coordinating Research Council, California Energy Commission, Growth Energy, Renewable Fuels Association, ICM Inc, National Corn Growers Association, Pearson Fuels, and others.
+  publications:
+    - text: 
