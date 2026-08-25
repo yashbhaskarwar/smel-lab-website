@@ -27,5 +27,4 @@ nav:
 - **CRC 2026 Mobile Source Air Toxics Workshop:** Professor Karavalakis presented SMEL's research work at the 12th Coordinating Research Council MSAT Workshop in Riverside.
 
 
-   - <img width="4926" height="210" alt="image" src="https://github.com/user-attachments/assets/af406c5c-5304-400b-869e-3c3752f3cc24" />
 
