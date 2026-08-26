@@ -6,10 +6,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-chalkboard-user" %}Teaching
 
-## Courses
+## Professor Karavalakis teaches in the Chemical and Environmental Engineering Department the following courses
 
-- [[Subject Code] – Subject Name – Fall 2025](https://example.com)
-- [[Subject Code] – Subject Name – Fall 2025](https://example.com)
-- [[Subject Code] – Subject Name – Fall 2025](https://example.com)
-- [[Subject Code] – Subject Name 1 – Winter 2026](https://example.com)
-- [[Subject Code] – Subject Name 2 – Winter 2026](https://example.com)
+- CEE 236 – Energy: Production, Use, Economics, and Sustainability – Fall Quarter 
+- ENVE 134 – Technology of Air Pollution Control – Spring Quarter
