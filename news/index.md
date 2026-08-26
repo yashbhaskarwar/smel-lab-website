@@ -7,8 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}News
 - **Ph.D. Opportunities:** I am always interested in hearing from qualified candidates who are seeking Ph.D. opportunities and are interested in contributing to our research
+
+- **SAE Brake Colloquium:** Our group (Georgios, Elizabeth, Ashley, and Zixuan) is attending the SAE Brake Colloquium in Palm Desert, California, with four platform presentations!
   
 - **Hydrogen Engine Alliance Fall Conference:** Dr. Karavalakis is attending the Fall 2026 North American Hydrogen Engine Conference in Detroit!
+
+- **2026 International Global Atmospheric Chemistry (IGAC) Conference:** Elizabeth DeFrance will represent our lab in the 2026 iCACGP-IGAC International Conference, which will be held in Heraklion, Crete, Greece! 
   
 - **Summer 2026 Field Campaign:** Abidur Rahman Adib conducts ultrafine particle, black carbon, and gaseous emission measurements across California’s South Coast Air Basin during a summer field campaign,
   using Professor Francesca Hopkins’ mobile emissions van.
