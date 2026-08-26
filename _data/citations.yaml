@@ -1,3 +1,36 @@
+- id: doi.org/10.1016/j.fuel.2026.140880
+  title: "Factors affecting real-world ammonia emissions formation from light-duty gasoline vehicles"
+  authors:
+  - Troy Hurren
+  - Helen Nguyen 
+  - Zisimos Toumasatos
+  - Georgios Karavalakis
+  publisher: Fuel 429, Part C, 140880
+  date: 
+  year: '2027'
+  link: https://doi.org/10.1016/j.fuel.2026.140880
+  orcid: 
+  plugin: orcid.py
+  file: orcid.yaml
+  
+- id: doi.org/10.1016/j.fuel.2026.140398
+  title: "Emissions from In-Use Heavy-Duty Diesel, natural Gas, and Diesel-Hybrid electric vehicles – Part 2. Particles, greenhouse gases (GHG), and gaseous toxic emissions"
+  authors:
+  - Zisimos Toumasatos
+  - Hanwei Zhu
+  - Tianbo Tang
+  - Georgios Karavalakis
+  - Sam Cao
+  - Kent C Johnson
+  - Thomas D Durbin 
+  publisher: Fuel 428, Part C, 140398
+  date: 
+  year: '2027'
+  link: https://doi.org/10.1016/j.fuel.2026.140398
+  orcid: 
+  plugin: orcid.py
+  file: orcid.yaml
+
 - id: doi.org/10.1016/j.scitotenv.2025.179781
   title: "The impacts of improving heavy-duty internal combustion engine technology on reducing NOx emissions inventories going into the future"
   authors:
