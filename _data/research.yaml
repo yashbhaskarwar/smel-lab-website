@@ -48,9 +48,9 @@
     Over the years, our research has been supported by the California Air Resources Board (CARB), South Coast Air Quality Management District (SCAQMD), USCAR,
     Coordinating Research Council, California Energy Commission, Growth Energy, Renewable Fuels Association, ICM Inc, National Corn Growers Association, Pearson Fuels, and others.
   publications:
-    - text: 
+    - text:
 
-     id: traffic pollution
+  id: traffic pollution
   title: Air Pollution from Heavy-Duty Vehicles 
   image: 
   summary: >
@@ -59,3 +59,5 @@
     included investigations on the formation of secondary organic aerosol from natural gas and diesel-powered heavy-duty vehicles.
      
     - text: 
+
+
