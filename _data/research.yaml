@@ -32,7 +32,7 @@
   publications:
     - text: 
 
-  id: low-carbon fuels
+ - id: low-carbon fuels
   title: Low-Carbon Liquid Biofuels Research
   image: 
   summary: >
@@ -50,7 +50,7 @@
   publications:
     - text:
 
-  id: traffic pollution
+  - id: traffic pollution
   title: Air Pollution from Heavy-Duty Vehicles 
   image: 
   summary: >
