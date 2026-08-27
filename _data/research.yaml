@@ -4,7 +4,8 @@
   summary: >
     We develop novel samping systems for onboard vehicle testing to measure brake-wear and tire and road wear particle and gaseous emissions from light-duty and commercial vehicles. 
     We study how brake pad material, tire type, road surface, and driving dynamics affect the formation of non-exhaust emissions. Our research examines airborne microplastic pollution released into the environment
-    from tire-wear, along with other potentially toxic pollutants. My research is supported by the California Air Resources Board (CARB), South Coast Air Quality Management District (SCAQMD), the Center for Efficient Mobility,
+    from tire-wear, along with other potentially toxic pollutants. We explore the formation of gaseous emissions from brake and tire wear and their effects on ozone forming potential and secondary aerosol production.
+    My research is supported by the California Air Resources Board (CARB), South Coast Air Quality Management District (SCAQMD), the Center for Efficient Mobility,
     the National Center for Sustainavble Transportation (NCST), which is a U.S. Department of Transportation national University Transportation Center, and the automotive industry.  
   Projects:
     - text: Project title and short description
@@ -32,7 +33,7 @@
     - text: 
 
   id: low-carbon fuels
-  title: Low-Carbon Liquid Biofuels  
+  title: Low-Carbon Liquid Biofuels Research 
   image: 
   summary: >
     We have extensively studied the environmental impacts of low-carbon liquid biofuels in both spark-ignition and compression-ignition engines. 
@@ -47,4 +48,14 @@
     Over the years, our research has been supported by the California Air Resources Board (CARB), South Coast Air Quality Management District (SCAQMD), USCAR,
     Coordinating Research Council, California Energy Commission, Growth Energy, Renewable Fuels Association, ICM Inc, National Corn Growers Association, Pearson Fuels, and others.
   publications:
+    - text: 
+
+     id: traffic pollution
+  title: Air Pollution from Heavy-Duty Vehicles 
+  image: 
+  summary: >
+    We have explored real-world emissions from vocational heavy-duty vehicles across California. Our research has primarily focused on factors affecting NOx emissions, as well as particle emissions from heavy-duty vehicles. 
+    We have shown that disadvantaged communities living near warehouses and logistic centers, ports, and freight corridors are disproportionaly affected from heavy-vehicle emissions. Our work beyond primary emissions
+    included investigations on the formation of secondary organic aerosol from natural gas and diesel-powered heavy-duty vehicles.
+     
     - text: 
